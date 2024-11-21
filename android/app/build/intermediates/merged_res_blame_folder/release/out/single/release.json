@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.pokeapiarief.app-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.pokeapiarief.app-main-45:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.pokeapiarief.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.pokeapiarief.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    }
+]

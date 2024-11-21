@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pokeapiarief"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:3:5-67
+11-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:3:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\arief\.gradle\caches\transforms-3\6849b7c9681f5428a00511757f5d48aa\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.pokeapiarief.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\arief\.gradle\caches\transforms-3\6849b7c9681f5428a00511757f5d48aa\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\arief\.gradle\caches\transforms-3\6849b7c9681f5428a00511757f5d48aa\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.pokeapiarief.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\arief\.gradle\caches\transforms-3\6849b7c9681f5428a00511757f5d48aa\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\arief\.gradle\caches\transforms-3\6849b7c9681f5428a00511757f5d48aa\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:5:5-24:19
+20        android:name="com.pokeapiarief.MainApplication"
+20-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:6:7-38
+21        android:allowBackup="false"
+21-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:10:7-34
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\arief\.gradle\caches\transforms-3\6849b7c9681f5428a00511757f5d48aa\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:8:7-41
+24        android:label="@string/app_name"
+24-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:7:7-39
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:9:7-52
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:11:7-38
+27        <activity
+27-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:12:7-23:18
+28            android:name="com.pokeapiarief.MainActivity"
+28-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:13:9-37
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+29-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:15:9-118
+30            android:exported="true"
+30-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:18:9-32
+31            android:label="@string/app_name"
+31-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:14:9-41
+32            android:launchMode="singleTask"
+32-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:16:9-40
+33            android:windowSoftInputMode="adjustResize" >
+33-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:17:9-51
+34            <intent-filter>
+34-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:19:9-22:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:20:13-65
+35-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:20:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:21:13-73
+37-->C:\Users\arief\OneDrive\Documents\reactNative\pokeApiArief\android\app\src\main\AndroidManifest.xml:21:23-70
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arief\.gradle\caches\transforms-3\d0aec940fcd638087a0da11b70d0860f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arief\.gradle\caches\transforms-3\d0aec940fcd638087a0da11b70d0860f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+43            android:authorities="com.pokeapiarief.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arief\.gradle\caches\transforms-3\d0aec940fcd638087a0da11b70d0860f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arief\.gradle\caches\transforms-3\d0aec940fcd638087a0da11b70d0860f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arief\.gradle\caches\transforms-3\d0aec940fcd638087a0da11b70d0860f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arief\.gradle\caches\transforms-3\d0aec940fcd638087a0da11b70d0860f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arief\.gradle\caches\transforms-3\d0aec940fcd638087a0da11b70d0860f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\arief\.gradle\caches\transforms-3\fe278f380074888440745f932134e602\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\arief\.gradle\caches\transforms-3\fe278f380074888440745f932134e602\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\arief\.gradle\caches\transforms-3\fe278f380074888440745f932134e602\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+51            <meta-data
+51-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+52-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+53                android:value="androidx.startup" />
+53-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+54        </provider>
+55
+56        <receiver
+56-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+57            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+57-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+58            android:directBootAware="false"
+58-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+59            android:enabled="true"
+59-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+60            android:exported="true"
+60-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+61            android:permission="android.permission.DUMP" >
+61-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+62            <intent-filter>
+62-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+63                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+63-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+63-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+64            </intent-filter>
+65            <intent-filter>
+65-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+66                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+66-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+66-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+67            </intent-filter>
+68            <intent-filter>
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+69                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+70            </intent-filter>
+71            <intent-filter>
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+72                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\arief\.gradle\caches\transforms-3\7606bfbb448612863db852ede101fc0c\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+73            </intent-filter>
+74        </receiver>
+75
+76        <meta-data
+76-->[com.facebook.soloader:soloader:0.10.5] C:\Users\arief\.gradle\caches\transforms-3\82b24c98a86e25a9abda23d950cb7ed3\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+77            android:name="com.facebook.soloader.enabled"
+77-->[com.facebook.soloader:soloader:0.10.5] C:\Users\arief\.gradle\caches\transforms-3\82b24c98a86e25a9abda23d950cb7ed3\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+78            android:value="false" />
+78-->[com.facebook.soloader:soloader:0.10.5] C:\Users\arief\.gradle\caches\transforms-3\82b24c98a86e25a9abda23d950cb7ed3\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+79    </application>
+80
+81</manifest>
